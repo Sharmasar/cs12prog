@@ -1,0 +1,15 @@
+TEST:SARTHAKS ACCOUNT|Movie|Romance|10|https://cleanpaste.site|this should only show up for sarthaks account|true|Watchlist
+Avengers: Age of Ultron|Movie|Misc|7||When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.|false|Incomplete
+Interstellar|Movie|Misc|9||A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.|false|Incomplete
+Inception|Movie|Misc|9||A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.|false|Incomplete
+Hello, My Name Is Doris|Movie|Misc|10||A self-help seminar inspires a sixty-something woman to romantically pursue her younger co-worker.|false|Incomplete
+wkifjawijd|Movie|Action|9|eda|itsoajd|true|Watchlist
+The Intouchables|Movie|Misc|10||After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.|false|Incomplete
+Everybody Wants Some!!|Movie|Misc|7||In 1980, a group of college baseball players navigate their way through the freedoms and responsibilities of unsupervised adulthood.|false|Incomplete
+Immortals|Movie|Misc|6||Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity.|false|Incomplete
+2307: Winter's Dream|Movie|Misc|4||In 2307, a future soldier is sent on a mission to hunt down the leader of the humanoid rebellion.|false|Incomplete
+Transformers: Revenge of the Fallen|Movie|Misc|6||Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.|false|Incomplete
+Dic|Book|Fiction|2|https://www.desmos.com/calculator|all the words|true|Watchlist
+Haunted house|Movie|Horror|3|https://www.desmos.com/calculator|Do not watch with kids|true|Watchlist
+Captain America: The Winter Soldier|Movie|Misc|10||As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.|false|Incomplete
+Finding Dory|Movie|Misc|10||The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way.|false|Incomplete
